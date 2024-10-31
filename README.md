@@ -24,7 +24,7 @@
 ---
 ## Presentation_File : https://docs.google.com/presentation/d/1BMhUOGtc1l6X3BRSM6s99fTev6Xl8Ije/edit?usp=sharing&ouid=101497979566065047806&rtpof=true&sd=true
 
-
+---
 ## Introduction
 
 This Smart Energy Grid project addresses energy distribution and theft detection challenges using data from the **Gorwa Sub Division, MGVCL**. The project employs **Machine Learning** for detecting anomalies in energy consumption and leverages **Big Data** analytics for real-time monitoring.
