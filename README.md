@@ -10,7 +10,7 @@
 ---
 
 ## Table of Contents
-- [Presentation_File](#Presentation_File)
+- [Presentation_File](#presentation_File)
 - [Introduction](#introduction)
 - [Features](#features)
 - [System Design](#system-design)
@@ -125,9 +125,9 @@ Smart-Energy-Grid/
 
 ## Contributors
 
+- **Surani Smit**
 - **Honey Patel**
 - **Yash Rank**
-- **Surani Smit**
 - **Aviral**
 
 ## License
